@@ -1,1 +1,2 @@
-# OOP_Project
+# OOPS_Project
+# Covid Management System
